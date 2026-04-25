@@ -34,7 +34,8 @@ namespace SerbuComputer
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            Form1 form = (Form1)this.FindForm();
+            form.ShowPage(new NewTransaksi());
         }
     }
 }

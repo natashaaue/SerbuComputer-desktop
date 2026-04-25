@@ -68,7 +68,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label2.Location = new System.Drawing.Point(160, 103);
+            this.label2.Location = new System.Drawing.Point(160, 108);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(496, 23);
             this.label2.TabIndex = 10;
@@ -79,7 +79,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label1.Location = new System.Drawing.Point(159, 65);
+            this.label1.Location = new System.Drawing.Point(159, 70);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(276, 28);
             this.label1.TabIndex = 9;
@@ -92,9 +92,9 @@
             this.guna2Panel2.Controls.Add(this.panelMember);
             this.guna2Panel2.Controls.Add(this.tbSearchMember);
             this.guna2Panel2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.guna2Panel2.Location = new System.Drawing.Point(164, 163);
+            this.guna2Panel2.Location = new System.Drawing.Point(164, 168);
             this.guna2Panel2.Name = "guna2Panel2";
-            this.guna2Panel2.Size = new System.Drawing.Size(1364, 90);
+            this.guna2Panel2.Size = new System.Drawing.Size(1351, 90);
             this.guna2Panel2.TabIndex = 9;
             // 
             // panelMember
@@ -102,7 +102,7 @@
             this.panelMember.BorderRadius = 10;
             this.panelMember.Controls.Add(this.totalMember);
             this.panelMember.FillColor = System.Drawing.Color.White;
-            this.panelMember.Location = new System.Drawing.Point(1146, 15);
+            this.panelMember.Location = new System.Drawing.Point(1141, 16);
             this.panelMember.Name = "panelMember";
             this.panelMember.Size = new System.Drawing.Size(176, 62);
             this.panelMember.TabIndex = 1;
@@ -136,7 +136,7 @@
             this.tbSearchMember.Name = "tbSearchMember";
             this.tbSearchMember.PlaceholderText = "Search Member";
             this.tbSearchMember.SelectedText = "";
-            this.tbSearchMember.Size = new System.Drawing.Size(971, 58);
+            this.tbSearchMember.Size = new System.Drawing.Size(1054, 58);
             this.tbSearchMember.TabIndex = 0;
             // 
             // guna2Panel1
@@ -157,9 +157,9 @@
             this.guna2Panel1.Controls.Add(this.contEmail);
             this.guna2Panel1.Controls.Add(this.contNowa);
             this.guna2Panel1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.guna2Panel1.Location = new System.Drawing.Point(164, 275);
+            this.guna2Panel1.Location = new System.Drawing.Point(164, 280);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(1351, 578);
+            this.guna2Panel1.Size = new System.Drawing.Size(1350, 578);
             this.guna2Panel1.TabIndex = 28;
             // 
             // panelStatus1
@@ -167,7 +167,7 @@
             this.panelStatus1.BorderRadius = 15;
             this.panelStatus1.Controls.Add(this.status1);
             this.panelStatus1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.panelStatus1.Location = new System.Drawing.Point(1125, 304);
+            this.panelStatus1.Location = new System.Drawing.Point(1130, 304);
             this.panelStatus1.Name = "panelStatus1";
             this.panelStatus1.Size = new System.Drawing.Size(164, 55);
             this.panelStatus1.TabIndex = 30;
@@ -188,7 +188,7 @@
             this.panelStatus.BorderRadius = 15;
             this.panelStatus.Controls.Add(this.status);
             this.panelStatus.FillColor = System.Drawing.Color.DarkSeaGreen;
-            this.panelStatus.Location = new System.Drawing.Point(1125, 143);
+            this.panelStatus.Location = new System.Drawing.Point(1130, 143);
             this.panelStatus.Name = "panelStatus";
             this.panelStatus.Size = new System.Drawing.Size(164, 55);
             this.panelStatus.TabIndex = 29;
@@ -212,9 +212,9 @@
             this.labelUser1.ForeColor = System.Drawing.Color.White;
             this.labelUser1.Location = new System.Drawing.Point(68, 345);
             this.labelUser1.Name = "labelUser1";
-            this.labelUser1.Size = new System.Drawing.Size(190, 28);
+            this.labelUser1.Size = new System.Drawing.Size(107, 28);
             this.labelUser1.TabIndex = 46;
-            this.labelUser1.Text = "Gopek Wareng";
+            this.labelUser1.Text = "Reifan H";
             // 
             // bProfile1
             // 
@@ -230,7 +230,7 @@
             this.bProfile1.Name = "bProfile1";
             this.bProfile1.Size = new System.Drawing.Size(179, 72);
             this.bProfile1.TabIndex = 45;
-            this.bProfile1.Text = "Gopek W";
+            this.bProfile1.Text = "Reifan H";
             // 
             // adress1
             // 
@@ -252,9 +252,9 @@
             this.contEmail1.ForeColor = System.Drawing.Color.White;
             this.contEmail1.Location = new System.Drawing.Point(358, 325);
             this.contEmail1.Name = "contEmail1";
-            this.contEmail1.Size = new System.Drawing.Size(233, 28);
+            this.contEmail1.Size = new System.Drawing.Size(226, 28);
             this.contEmail1.TabIndex = 43;
-            this.contEmail1.Text = "gopek@gmail.com";
+            this.contEmail1.Text = "repan@gmail.com";
             // 
             // contNowa1
             // 

@@ -32,6 +32,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.bPublishProduct = new Guna.UI2.WinForms.Guna2Button();
             this.bUpdateProduct = new Guna.UI2.WinForms.Guna2Button();
             this.pImage = new Guna.UI2.WinForms.Guna2Panel();
@@ -51,11 +53,10 @@
             this.tbNameProduct = new Guna.UI2.WinForms.Guna2TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.guna2Panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.pImage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureProduct)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label2
@@ -63,7 +64,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label2.Location = new System.Drawing.Point(160, 101);
+            this.label2.Location = new System.Drawing.Point(166, 109);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(303, 23);
             this.label2.TabIndex = 14;
@@ -74,7 +75,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label1.Location = new System.Drawing.Point(159, 63);
+            this.label1.Location = new System.Drawing.Point(165, 71);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(265, 28);
             this.label1.TabIndex = 13;
@@ -84,6 +85,8 @@
             // 
             this.guna2Panel1.BackColor = System.Drawing.Color.Transparent;
             this.guna2Panel1.BorderRadius = 10;
+            this.guna2Panel1.Controls.Add(this.panel1);
+            this.guna2Panel1.Controls.Add(this.pictureBox1);
             this.guna2Panel1.Controls.Add(this.bPublishProduct);
             this.guna2Panel1.Controls.Add(this.bUpdateProduct);
             this.guna2Panel1.Controls.Add(this.pImage);
@@ -100,11 +103,29 @@
             this.guna2Panel1.Controls.Add(this.label4);
             this.guna2Panel1.Controls.Add(this.label5);
             this.guna2Panel1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.guna2Panel1.Location = new System.Drawing.Point(164, 163);
+            this.guna2Panel1.Location = new System.Drawing.Point(164, 154);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(1364, 706);
+            this.guna2Panel1.Size = new System.Drawing.Size(1309, 706);
             this.guna2Panel1.TabIndex = 15;
             this.guna2Panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel1_Paint);
+            // 
+            // panel1
+            // 
+            this.panel1.Location = new System.Drawing.Point(1303, 66);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(154, 100);
+            this.panel1.TabIndex = 16;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(36, 41);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(79, 72);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox1.TabIndex = 24;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // bPublishProduct
             // 
@@ -116,7 +137,7 @@
             this.bPublishProduct.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
             this.bPublishProduct.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Bold);
             this.bPublishProduct.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.bPublishProduct.Location = new System.Drawing.Point(1094, 627);
+            this.bPublishProduct.Location = new System.Drawing.Point(963, 616);
             this.bPublishProduct.Name = "bPublishProduct";
             this.bPublishProduct.Size = new System.Drawing.Size(206, 45);
             this.bPublishProduct.TabIndex = 20;
@@ -132,7 +153,7 @@
             this.bUpdateProduct.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
             this.bUpdateProduct.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Bold);
             this.bUpdateProduct.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.bUpdateProduct.Location = new System.Drawing.Point(882, 627);
+            this.bUpdateProduct.Location = new System.Drawing.Point(751, 616);
             this.bUpdateProduct.Name = "bUpdateProduct";
             this.bUpdateProduct.Size = new System.Drawing.Size(206, 45);
             this.bUpdateProduct.TabIndex = 19;
@@ -147,9 +168,9 @@
             this.pImage.Controls.Add(this.label3);
             this.pImage.Controls.Add(this.pictureProduct);
             this.pImage.FillColor = System.Drawing.Color.White;
-            this.pImage.Location = new System.Drawing.Point(65, 440);
+            this.pImage.Location = new System.Drawing.Point(175, 439);
             this.pImage.Name = "pImage";
-            this.pImage.Size = new System.Drawing.Size(1236, 148);
+            this.pImage.Size = new System.Drawing.Size(994, 148);
             this.pImage.TabIndex = 17;
             // 
             // bNoFileChoose
@@ -217,12 +238,12 @@
             this.tbProductDetail.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.tbProductDetail.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbProductDetail.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.tbProductDetail.Location = new System.Drawing.Point(966, 235);
+            this.tbProductDetail.Location = new System.Drawing.Point(541, 234);
             this.tbProductDetail.Margin = new System.Windows.Forms.Padding(4);
             this.tbProductDetail.Name = "tbProductDetail";
             this.tbProductDetail.PlaceholderText = "";
             this.tbProductDetail.SelectedText = "";
-            this.tbProductDetail.Size = new System.Drawing.Size(337, 137);
+            this.tbProductDetail.Size = new System.Drawing.Size(270, 137);
             this.tbProductDetail.TabIndex = 16;
             // 
             // label9
@@ -230,7 +251,7 @@
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label9.Location = new System.Drawing.Point(962, 192);
+            this.label9.Location = new System.Drawing.Point(894, 191);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(223, 26);
             this.label9.TabIndex = 15;
@@ -248,12 +269,12 @@
             this.tbKeySpecs.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.tbKeySpecs.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbKeySpecs.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.tbKeySpecs.Location = new System.Drawing.Point(517, 235);
+            this.tbKeySpecs.Location = new System.Drawing.Point(899, 234);
             this.tbKeySpecs.Margin = new System.Windows.Forms.Padding(4);
             this.tbKeySpecs.Name = "tbKeySpecs";
             this.tbKeySpecs.PlaceholderText = "";
             this.tbKeySpecs.SelectedText = "";
-            this.tbKeySpecs.Size = new System.Drawing.Size(337, 137);
+            this.tbKeySpecs.Size = new System.Drawing.Size(270, 137);
             this.tbKeySpecs.TabIndex = 14;
             // 
             // label8
@@ -261,7 +282,7 @@
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label8.Location = new System.Drawing.Point(513, 192);
+            this.label8.Location = new System.Drawing.Point(536, 191);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(207, 26);
             this.label8.TabIndex = 13;
@@ -279,12 +300,12 @@
             this.tbOpeningInventory.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.tbOpeningInventory.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbOpeningInventory.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.tbOpeningInventory.Location = new System.Drawing.Point(65, 235);
+            this.tbOpeningInventory.Location = new System.Drawing.Point(177, 234);
             this.tbOpeningInventory.Margin = new System.Windows.Forms.Padding(4);
             this.tbOpeningInventory.Name = "tbOpeningInventory";
             this.tbOpeningInventory.PlaceholderText = "";
             this.tbOpeningInventory.SelectedText = "";
-            this.tbOpeningInventory.Size = new System.Drawing.Size(337, 41);
+            this.tbOpeningInventory.Size = new System.Drawing.Size(276, 41);
             this.tbOpeningInventory.TabIndex = 12;
             // 
             // label7
@@ -292,7 +313,7 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label7.Location = new System.Drawing.Point(61, 192);
+            this.label7.Location = new System.Drawing.Point(171, 191);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(210, 26);
             this.label7.TabIndex = 11;
@@ -310,12 +331,12 @@
             this.tbPrice.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.tbPrice.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbPrice.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.tbPrice.Location = new System.Drawing.Point(966, 85);
+            this.tbPrice.Location = new System.Drawing.Point(899, 84);
             this.tbPrice.Margin = new System.Windows.Forms.Padding(4);
             this.tbPrice.Name = "tbPrice";
             this.tbPrice.PlaceholderText = "";
             this.tbPrice.SelectedText = "";
-            this.tbPrice.Size = new System.Drawing.Size(337, 41);
+            this.tbPrice.Size = new System.Drawing.Size(270, 41);
             this.tbPrice.TabIndex = 10;
             // 
             // label6
@@ -323,7 +344,7 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label6.Location = new System.Drawing.Point(961, 42);
+            this.label6.Location = new System.Drawing.Point(894, 41);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(160, 26);
             this.label6.TabIndex = 9;
@@ -341,12 +362,12 @@
             this.tbCategory.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.tbCategory.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbCategory.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.tbCategory.Location = new System.Drawing.Point(518, 85);
+            this.tbCategory.Location = new System.Drawing.Point(177, 84);
             this.tbCategory.Margin = new System.Windows.Forms.Padding(4);
             this.tbCategory.Name = "tbCategory";
             this.tbCategory.PlaceholderText = "";
             this.tbCategory.SelectedText = "";
-            this.tbCategory.Size = new System.Drawing.Size(337, 41);
+            this.tbCategory.Size = new System.Drawing.Size(276, 41);
             this.tbCategory.TabIndex = 8;
             // 
             // tbNameProduct
@@ -361,12 +382,12 @@
             this.tbNameProduct.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.tbNameProduct.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbNameProduct.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.tbNameProduct.Location = new System.Drawing.Point(66, 85);
+            this.tbNameProduct.Location = new System.Drawing.Point(535, 84);
             this.tbNameProduct.Margin = new System.Windows.Forms.Padding(4);
             this.tbNameProduct.Name = "tbNameProduct";
             this.tbNameProduct.PlaceholderText = "";
             this.tbNameProduct.SelectedText = "";
-            this.tbNameProduct.Size = new System.Drawing.Size(337, 41);
+            this.tbNameProduct.Size = new System.Drawing.Size(276, 41);
             this.tbNameProduct.TabIndex = 7;
             // 
             // label4
@@ -374,7 +395,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label4.Location = new System.Drawing.Point(513, 42);
+            this.label4.Location = new System.Drawing.Point(536, 41);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(114, 26);
             this.label4.TabIndex = 5;
@@ -385,40 +406,27 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Century Gothic", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label5.Location = new System.Drawing.Point(62, 42);
+            this.label5.Location = new System.Drawing.Point(172, 41);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(166, 26);
             this.label5.TabIndex = 4;
             this.label5.Text = "Name Product";
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(16, 163);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(79, 72);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox1.TabIndex = 24;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
-            // 
             // ManagementProductAdmin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.AutoScroll = true;
-            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.guna2Panel1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "ManagementProductAdmin";
-            this.Size = new System.Drawing.Size(1887, 967);
+            this.Size = new System.Drawing.Size(1644, 892);
             this.guna2Panel1.ResumeLayout(false);
             this.guna2Panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.pImage.ResumeLayout(false);
             this.pImage.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureProduct)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -431,7 +439,6 @@
         private Guna.UI2.WinForms.Guna2TextBox tbNameProduct;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private Guna.UI2.WinForms.Guna2TextBox tbKeySpecs;
         private System.Windows.Forms.Label label8;
         private Guna.UI2.WinForms.Guna2TextBox tbOpeningInventory;
         private System.Windows.Forms.Label label7;
@@ -439,7 +446,6 @@
         private System.Windows.Forms.Label label6;
         private Guna.UI2.WinForms.Guna2TextBox tbCategory;
         private Guna.UI2.WinForms.Guna2Panel pImage;
-        private Guna.UI2.WinForms.Guna2TextBox tbProductDetail;
         private System.Windows.Forms.Label label9;
         private Guna.UI2.WinForms.Guna2Button bPublishProduct;
         private Guna.UI2.WinForms.Guna2Button bUpdateProduct;
@@ -448,5 +454,8 @@
         private Guna.UI2.WinForms.Guna2Button bChooseFile;
         private Guna.UI2.WinForms.Guna2Button bNoFileChoose;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private Guna.UI2.WinForms.Guna2TextBox tbProductDetail;
+        private Guna.UI2.WinForms.Guna2TextBox tbKeySpecs;
+        private System.Windows.Forms.Panel panel1;
     }
 }

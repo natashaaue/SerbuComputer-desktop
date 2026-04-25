@@ -3,76 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\managementmemberadmind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\managementmemberadmind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|c:\\users\\mybook hype\\source\\repos\\serbucomputer\\serbucomputer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\newtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\newtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\newtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\newtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\prooftransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\prooftransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\managementmemberadmind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\managementmemberadmind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\katalogproductadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\katalogproductadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\transactionofflineadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\transactionofflineadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\katalogproductadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\katalogproductadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\dashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\dashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\viewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\viewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\managementproductadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\managementproductadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\managementproductadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\managementproductadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\managementmemberadmind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\managementmemberadmind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\transactionofflineadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\transactionofflineadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\katalogproductadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\katalogproductadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|c:\\users\\mybook hype\\source\\repos\\serbucomputer\\serbucomputer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\transactionofflineadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\transactionofflineadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\newtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\newtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\newtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\newtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\managementmemberadmind.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\managementmemberadmind.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\prooftransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\prooftransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\viewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\viewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\dashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|solutionrelative:serbucomputer\\dashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3485919C-CCF6-41AF-BDD6-1372BE6BC953}|SerbuComputer\\SerbuComputer.csproj|C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\serbucomputer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\Form1.cs",
               "RelativeDocumentMoniker": "SerbuComputer\\Form1.cs",
@@ -103,185 +91,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ManagementMemberAdmind.cs",
-              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ManagementMemberAdmind.cs",
-              "RelativeDocumentMoniker": "SerbuComputer\\ManagementMemberAdmind.cs",
-              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ManagementMemberAdmind.cs",
-              "RelativeToolTip": "SerbuComputer\\ManagementMemberAdmind.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAkwBoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T01:21:29.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "TransactionOfflineAdmin.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\TransactionOfflineAdmin.cs",
               "RelativeDocumentMoniker": "SerbuComputer\\TransactionOfflineAdmin.cs",
               "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\TransactionOfflineAdmin.cs",
               "RelativeToolTip": "SerbuComputer\\TransactionOfflineAdmin.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAYwCQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T01:09:20.702Z"
+              "WhenOpened": "2026-04-15T03:42:03.14Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NewTransaksi.cs",
-              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\NewTransaksi.cs",
-              "RelativeDocumentMoniker": "SerbuComputer\\NewTransaksi.cs",
-              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\NewTransaksi.cs",
-              "RelativeToolTip": "SerbuComputer\\NewTransaksi.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAgwE8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T01:06:12.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ManagementProductAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ManagementProductAdmin.cs",
-              "RelativeDocumentMoniker": "SerbuComputer\\ManagementProductAdmin.cs",
-              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ManagementProductAdmin.cs",
-              "RelativeToolTip": "SerbuComputer\\ManagementProductAdmin.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T00:55:53.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 9,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "SerbuComputer\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\Form1.Designer.cs",
               "RelativeToolTip": "SerbuComputer\\Form1.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwP8AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwPIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T00:34:49.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T02:57:54.107Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "KatalogProductAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\KatalogProductAdmin.cs",
-              "RelativeDocumentMoniker": "SerbuComputer\\KatalogProductAdmin.cs",
-              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\KatalogProductAdmin.cs",
-              "RelativeToolTip": "SerbuComputer\\KatalogProductAdmin.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAnwC4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T23:47:28.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\Login.cs",
-              "RelativeDocumentMoniker": "SerbuComputer\\Login.cs",
-              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\Login.cs",
-              "RelativeToolTip": "SerbuComputer\\Login.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T23:22:35.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NewTransaksi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\NewTransaksi.cs",
-              "RelativeDocumentMoniker": "SerbuComputer\\NewTransaksi.cs",
-              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\NewTransaksi.cs [Design]",
-              "RelativeToolTip": "SerbuComputer\\NewTransaksi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T04:59:19.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\Form1.cs",
               "RelativeDocumentMoniker": "SerbuComputer\\Form1.cs",
               "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\Form1.cs",
               "RelativeToolTip": "SerbuComputer\\Form1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAhwBYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T04:14:25.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T02:56:38.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProofTransaction.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ProofTransaction.cs",
-              "RelativeDocumentMoniker": "SerbuComputer\\ProofTransaction.cs",
-              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ProofTransaction.cs [Design]",
-              "RelativeToolTip": "SerbuComputer\\ProofTransaction.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "NewTransaksi.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\NewTransaksi.cs",
+              "RelativeDocumentMoniker": "SerbuComputer\\NewTransaksi.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\NewTransaksi.cs",
+              "RelativeToolTip": "SerbuComputer\\NewTransaksi.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T03:25:44.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ViewMember.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ViewMember.cs",
-              "RelativeDocumentMoniker": "SerbuComputer\\ViewMember.cs",
-              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ViewMember.cs [Design]",
-              "RelativeToolTip": "SerbuComputer\\ViewMember.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T02:37:26.307Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TransactionOfflineAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\TransactionOfflineAdmin.cs",
-              "RelativeDocumentMoniker": "SerbuComputer\\TransactionOfflineAdmin.cs",
-              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\TransactionOfflineAdmin.cs [Design]",
-              "RelativeToolTip": "SerbuComputer\\TransactionOfflineAdmin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T00:12:04.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ManagementProductAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ManagementProductAdmin.cs",
-              "RelativeDocumentMoniker": "SerbuComputer\\ManagementProductAdmin.cs",
-              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ManagementProductAdmin.cs [Design]",
-              "RelativeToolTip": "SerbuComputer\\ManagementProductAdmin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T00:40:06.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "KatalogProductAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\KatalogProductAdmin.cs",
-              "RelativeDocumentMoniker": "SerbuComputer\\KatalogProductAdmin.cs",
-              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\KatalogProductAdmin.cs [Design]",
-              "RelativeToolTip": "SerbuComputer\\KatalogProductAdmin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T07:41:13.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\Login.cs",
-              "RelativeDocumentMoniker": "SerbuComputer\\Login.cs",
-              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\Login.cs [Design]",
-              "RelativeToolTip": "SerbuComputer\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T00:18:46.026Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-04-15T02:52:45.099Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "ManagementMemberAdmind.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ManagementMemberAdmind.Designer.cs",
+              "RelativeDocumentMoniker": "SerbuComputer\\ManagementMemberAdmind.Designer.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ManagementMemberAdmind.Designer.cs",
+              "RelativeToolTip": "SerbuComputer\\ManagementMemberAdmind.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T02:46:45.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KatalogProductAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\KatalogProductAdmin.cs",
+              "RelativeDocumentMoniker": "SerbuComputer\\KatalogProductAdmin.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\KatalogProductAdmin.cs",
+              "RelativeToolTip": "SerbuComputer\\KatalogProductAdmin.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T02:40:32.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "DashboardAdmin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\DashboardAdmin.cs",
               "RelativeDocumentMoniker": "SerbuComputer\\DashboardAdmin.cs",
@@ -292,7 +177,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "KatalogProductAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\KatalogProductAdmin.cs",
+              "RelativeDocumentMoniker": "SerbuComputer\\KatalogProductAdmin.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\KatalogProductAdmin.cs [Design]",
+              "RelativeToolTip": "SerbuComputer\\KatalogProductAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:41:13.021Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagementProductAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ManagementProductAdmin.cs",
+              "RelativeDocumentMoniker": "SerbuComputer\\ManagementProductAdmin.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ManagementProductAdmin.cs [Design]",
+              "RelativeToolTip": "SerbuComputer\\ManagementProductAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T00:40:06.645Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewTransaksi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\NewTransaksi.cs",
+              "RelativeDocumentMoniker": "SerbuComputer\\NewTransaksi.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\NewTransaksi.cs [Design]",
+              "RelativeToolTip": "SerbuComputer\\NewTransaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T23:57:26.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionOfflineAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\TransactionOfflineAdmin.cs",
+              "RelativeDocumentMoniker": "SerbuComputer\\TransactionOfflineAdmin.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\TransactionOfflineAdmin.cs [Design]",
+              "RelativeToolTip": "SerbuComputer\\TransactionOfflineAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T00:12:04.076Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ManagementMemberAdmind.cs [Design]",
               "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ManagementMemberAdmind.cs",
               "RelativeDocumentMoniker": "SerbuComputer\\ManagementMemberAdmind.cs",
@@ -304,7 +236,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 12,
+              "Title": "ProofTransaction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ProofTransaction.cs",
+              "RelativeDocumentMoniker": "SerbuComputer\\ProofTransaction.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ProofTransaction.cs [Design]",
+              "RelativeToolTip": "SerbuComputer\\ProofTransaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T03:25:44.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ViewMember.cs",
+              "RelativeDocumentMoniker": "SerbuComputer\\ViewMember.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\ViewMember.cs [Design]",
+              "RelativeToolTip": "SerbuComputer\\ViewMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T02:37:26.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SerbuComputer\\SerbuComputer\\Program.cs",
               "RelativeDocumentMoniker": "SerbuComputer\\Program.cs",

@@ -67,7 +67,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label2.Location = new System.Drawing.Point(160, 106);
+            this.label2.Location = new System.Drawing.Point(163, 109);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(306, 23);
             this.label2.TabIndex = 25;
@@ -78,7 +78,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label1.Location = new System.Drawing.Point(159, 66);
+            this.label1.Location = new System.Drawing.Point(162, 69);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(265, 28);
             this.label1.TabIndex = 24;
@@ -95,7 +95,7 @@
             this.bAddProduct.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
             this.bAddProduct.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bAddProduct.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.bAddProduct.Location = new System.Drawing.Point(1147, 16);
+            this.bAddProduct.Location = new System.Drawing.Point(1083, 17);
             this.bAddProduct.Name = "bAddProduct";
             this.bAddProduct.Size = new System.Drawing.Size(176, 62);
             this.bAddProduct.TabIndex = 1;
@@ -109,9 +109,9 @@
             this.guna2Panel2.Controls.Add(this.tbSearchProduct);
             this.guna2Panel2.Controls.Add(this.bAddProduct);
             this.guna2Panel2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.guna2Panel2.Location = new System.Drawing.Point(164, 166);
+            this.guna2Panel2.Location = new System.Drawing.Point(167, 156);
             this.guna2Panel2.Name = "guna2Panel2";
-            this.guna2Panel2.Size = new System.Drawing.Size(1351, 94);
+            this.guna2Panel2.Size = new System.Drawing.Size(1309, 94);
             this.guna2Panel2.TabIndex = 26;
             // 
             // tbSearchProduct
@@ -126,12 +126,12 @@
             this.tbSearchProduct.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.tbSearchProduct.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbSearchProduct.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.tbSearchProduct.Location = new System.Drawing.Point(40, 17);
+            this.tbSearchProduct.Location = new System.Drawing.Point(23, 17);
             this.tbSearchProduct.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.tbSearchProduct.Name = "tbSearchProduct";
             this.tbSearchProduct.PlaceholderText = "Search Product";
             this.tbSearchProduct.SelectedText = "";
-            this.tbSearchProduct.Size = new System.Drawing.Size(1079, 61);
+            this.tbSearchProduct.Size = new System.Drawing.Size(1022, 61);
             this.tbSearchProduct.TabIndex = 0;
             // 
             // guna2Panel1
@@ -151,16 +151,16 @@
             this.guna2Panel1.Controls.Add(this.HargaProduct);
             this.guna2Panel1.Controls.Add(this.pProduct);
             this.guna2Panel1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.guna2Panel1.Location = new System.Drawing.Point(164, 279);
+            this.guna2Panel1.Location = new System.Drawing.Point(167, 269);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(1351, 651);
+            this.guna2Panel1.Size = new System.Drawing.Size(1309, 474);
             this.guna2Panel1.TabIndex = 27;
             // 
             // pictAction1
             // 
             this.pictAction1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
             this.pictAction1.Image = ((System.Drawing.Image)(resources.GetObject("pictAction1.Image")));
-            this.pictAction1.Location = new System.Drawing.Point(1194, 335);
+            this.pictAction1.Location = new System.Drawing.Point(1105, 315);
             this.pictAction1.Name = "pictAction1";
             this.pictAction1.Size = new System.Drawing.Size(45, 51);
             this.pictAction1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -174,7 +174,7 @@
             this.qty1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
             this.qty1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.qty1.ForeColor = System.Drawing.Color.White;
-            this.qty1.Location = new System.Drawing.Point(967, 335);
+            this.qty1.Location = new System.Drawing.Point(892, 335);
             this.qty1.Name = "qty1";
             this.qty1.Size = new System.Drawing.Size(38, 28);
             this.qty1.TabIndex = 37;
@@ -186,11 +186,11 @@
             this.category1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
             this.category1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.category1.ForeColor = System.Drawing.SystemColors.ActiveBorder;
-            this.category1.Location = new System.Drawing.Point(662, 335);
+            this.category1.Location = new System.Drawing.Point(622, 335);
             this.category1.Name = "category1";
-            this.category1.Size = new System.Drawing.Size(121, 28);
+            this.category1.Size = new System.Drawing.Size(152, 28);
             this.category1.TabIndex = 36;
-            this.category1.Text = "Aksesoris";
+            this.category1.Text = "Accessories";
             // 
             // nameProduct1
             // 
@@ -198,7 +198,7 @@
             this.nameProduct1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
             this.nameProduct1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.nameProduct1.ForeColor = System.Drawing.Color.White;
-            this.nameProduct1.Location = new System.Drawing.Point(358, 335);
+            this.nameProduct1.Location = new System.Drawing.Point(346, 338);
             this.nameProduct1.Name = "nameProduct1";
             this.nameProduct1.Size = new System.Drawing.Size(167, 28);
             this.nameProduct1.TabIndex = 35;
@@ -210,7 +210,7 @@
             this.HargaProduct1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
             this.HargaProduct1.Font = new System.Drawing.Font("Century Gothic", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.HargaProduct1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.HargaProduct1.Location = new System.Drawing.Point(358, 372);
+            this.HargaProduct1.Location = new System.Drawing.Point(346, 375);
             this.HargaProduct1.Name = "HargaProduct1";
             this.HargaProduct1.Size = new System.Drawing.Size(162, 30);
             this.HargaProduct1.TabIndex = 34;
@@ -232,7 +232,7 @@
             // 
             this.pictAction.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
             this.pictAction.Image = ((System.Drawing.Image)(resources.GetObject("pictAction.Image")));
-            this.pictAction.Location = new System.Drawing.Point(1194, 164);
+            this.pictAction.Location = new System.Drawing.Point(1105, 144);
             this.pictAction.Name = "pictAction";
             this.pictAction.Size = new System.Drawing.Size(45, 51);
             this.pictAction.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -246,7 +246,7 @@
             this.qty.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
             this.qty.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.qty.ForeColor = System.Drawing.Color.White;
-            this.qty.Location = new System.Drawing.Point(967, 164);
+            this.qty.Location = new System.Drawing.Point(892, 164);
             this.qty.Name = "qty";
             this.qty.Size = new System.Drawing.Size(38, 28);
             this.qty.TabIndex = 31;
@@ -258,11 +258,11 @@
             this.category.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
             this.category.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.category.ForeColor = System.Drawing.SystemColors.ActiveBorder;
-            this.category.Location = new System.Drawing.Point(662, 164);
+            this.category.Location = new System.Drawing.Point(622, 164);
             this.category.Name = "category";
-            this.category.Size = new System.Drawing.Size(121, 28);
+            this.category.Size = new System.Drawing.Size(152, 28);
             this.category.TabIndex = 30;
-            this.category.Text = "Aksesoris";
+            this.category.Text = "Accessories";
             this.category.Click += new System.EventHandler(this.label6_Click);
             // 
             // guna2Panel3
@@ -277,7 +277,7 @@
             this.guna2Panel3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(125)))));
             this.guna2Panel3.Location = new System.Drawing.Point(0, 1);
             this.guna2Panel3.Name = "guna2Panel3";
-            this.guna2Panel3.Size = new System.Drawing.Size(1351, 88);
+            this.guna2Panel3.Size = new System.Drawing.Size(1309, 88);
             this.guna2Panel3.TabIndex = 27;
             // 
             // label11
@@ -286,7 +286,7 @@
             this.label11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(125)))));
             this.label11.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label11.Location = new System.Drawing.Point(1168, 29);
+            this.label11.Location = new System.Drawing.Point(1089, 29);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(87, 28);
             this.label11.TabIndex = 37;
@@ -299,7 +299,7 @@
             this.label10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(125)))));
             this.label10.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label10.Location = new System.Drawing.Point(927, 29);
+            this.label10.Location = new System.Drawing.Point(867, 29);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(110, 28);
             this.label10.TabIndex = 36;
@@ -311,7 +311,7 @@
             this.label9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(125)))));
             this.label9.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label9.Location = new System.Drawing.Point(662, 29);
+            this.label9.Location = new System.Drawing.Point(621, 29);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(122, 28);
             this.label9.TabIndex = 35;
@@ -323,7 +323,7 @@
             this.label8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(125)))));
             this.label8.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label8.Location = new System.Drawing.Point(358, 29);
+            this.label8.Location = new System.Drawing.Point(348, 29);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(150, 28);
             this.label8.TabIndex = 34;
@@ -347,7 +347,7 @@
             this.nameProduct.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
             this.nameProduct.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.nameProduct.ForeColor = System.Drawing.Color.White;
-            this.nameProduct.Location = new System.Drawing.Point(358, 164);
+            this.nameProduct.Location = new System.Drawing.Point(346, 167);
             this.nameProduct.Name = "nameProduct";
             this.nameProduct.Size = new System.Drawing.Size(167, 28);
             this.nameProduct.TabIndex = 29;
@@ -359,7 +359,7 @@
             this.HargaProduct.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
             this.HargaProduct.Font = new System.Drawing.Font("Century Gothic", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.HargaProduct.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.HargaProduct.Location = new System.Drawing.Point(358, 201);
+            this.HargaProduct.Location = new System.Drawing.Point(346, 204);
             this.HargaProduct.Name = "HargaProduct";
             this.HargaProduct.Size = new System.Drawing.Size(162, 30);
             this.HargaProduct.TabIndex = 28;
@@ -386,7 +386,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "KatalogProductAdmin";
-            this.Size = new System.Drawing.Size(1698, 921);
+            this.Size = new System.Drawing.Size(1644, 892);
+            this.Load += new System.EventHandler(this.KatalogProductAdmin_Load);
             this.guna2Panel2.ResumeLayout(false);
             this.guna2Panel1.ResumeLayout(false);
             this.guna2Panel1.PerformLayout();

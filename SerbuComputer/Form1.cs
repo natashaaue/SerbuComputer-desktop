@@ -17,9 +17,9 @@ namespace SerbuComputer
             InitializeComponent();
         }
 
-        private void ShowPage(UserControl page)
+        public void ShowPage(UserControl page)
         {
-            // Bersihkan konten sebelumnya
+           // Bersihkan konten sebelumnya
             panelContent.Controls.Clear();
 
             // Atur agar UserControl menyesuaikan ukuran panel
@@ -27,7 +27,10 @@ namespace SerbuComputer
 
             // Tambahkan UserControl ke panel
             panelContent.Controls.Add(page);
+
         }
+
+
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -104,6 +107,16 @@ namespace SerbuComputer
         private void bLogout_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

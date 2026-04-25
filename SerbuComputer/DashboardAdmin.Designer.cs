@@ -32,47 +32,41 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.pTotalUser = new Guna.UI2.WinForms.Guna2Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label11 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.pTotalProduct = new Guna.UI2.WinForms.Guna2Panel();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label12 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.pTotaltransactio = new Guna.UI2.WinForms.Guna2Panel();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.label13 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.pRevenue = new Guna.UI2.WinForms.Guna2Panel();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.label16 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.pRevenueToday = new Guna.UI2.WinForms.Guna2Panel();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.label15 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.pPendingUser = new Guna.UI2.WinForms.Guna2Panel();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.label14 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.pQuickAction = new Guna.UI2.WinForms.Guna2Panel();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.bQuickAction = new System.Windows.Forms.PictureBox();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pTotalUser.SuspendLayout();
-            this.pTotalProduct.SuspendLayout();
-            this.pTotaltransactio.SuspendLayout();
-            this.pRevenue.SuspendLayout();
-            this.pRevenueToday.SuspendLayout();
-            this.pPendingUser.SuspendLayout();
-            this.pQuickAction.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.bQuickAction)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.pTotalProduct.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            this.pTotaltransactio.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            this.pRevenue.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            this.pRevenueToday.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            this.pPendingUser.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -80,7 +74,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.label1.Location = new System.Drawing.Point(227, 46);
+            this.label1.Location = new System.Drawing.Point(162, 70);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(341, 28);
             this.label1.TabIndex = 0;
@@ -91,7 +85,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label2.Location = new System.Drawing.Point(228, 84);
+            this.label2.Location = new System.Drawing.Point(163, 108);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(768, 23);
             this.label2.TabIndex = 1;
@@ -105,10 +99,20 @@
             this.pTotalUser.Controls.Add(this.label11);
             this.pTotalUser.Controls.Add(this.label3);
             this.pTotalUser.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.pTotalUser.Location = new System.Drawing.Point(164, 163);
+            this.pTotalUser.Location = new System.Drawing.Point(164, 181);
             this.pTotalUser.Name = "pTotalUser";
             this.pTotalUser.Size = new System.Drawing.Size(344, 179);
             this.pTotalUser.TabIndex = 2;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(190, 66);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(122, 77);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 9;
+            this.pictureBox1.TabStop = false;
             // 
             // label11
             // 
@@ -140,10 +144,21 @@
             this.pTotalProduct.Controls.Add(this.label12);
             this.pTotalProduct.Controls.Add(this.label4);
             this.pTotalProduct.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.pTotalProduct.Location = new System.Drawing.Point(587, 163);
+            this.pTotalProduct.Location = new System.Drawing.Point(587, 181);
             this.pTotalProduct.Name = "pTotalProduct";
             this.pTotalProduct.Size = new System.Drawing.Size(344, 179);
             this.pTotalProduct.TabIndex = 3;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Location = new System.Drawing.Point(197, 66);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(122, 77);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox2.TabIndex = 10;
+            this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // label12
             // 
@@ -175,10 +190,20 @@
             this.pTotaltransactio.Controls.Add(this.label13);
             this.pTotaltransactio.Controls.Add(this.label5);
             this.pTotaltransactio.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.pTotaltransactio.Location = new System.Drawing.Point(1023, 163);
+            this.pTotaltransactio.Location = new System.Drawing.Point(1023, 181);
             this.pTotaltransactio.Name = "pTotaltransactio";
             this.pTotaltransactio.Size = new System.Drawing.Size(344, 179);
             this.pTotaltransactio.TabIndex = 4;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Location = new System.Drawing.Point(199, 66);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(122, 77);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox3.TabIndex = 11;
+            this.pictureBox3.TabStop = false;
             // 
             // label13
             // 
@@ -210,10 +235,20 @@
             this.pRevenue.Controls.Add(this.label16);
             this.pRevenue.Controls.Add(this.label6);
             this.pRevenue.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.pRevenue.Location = new System.Drawing.Point(164, 433);
+            this.pRevenue.Location = new System.Drawing.Point(164, 451);
             this.pRevenue.Name = "pRevenue";
             this.pRevenue.Size = new System.Drawing.Size(344, 179);
             this.pRevenue.TabIndex = 3;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Location = new System.Drawing.Point(190, 70);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(122, 77);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox4.TabIndex = 10;
+            this.pictureBox4.TabStop = false;
             // 
             // label16
             // 
@@ -245,10 +280,20 @@
             this.pRevenueToday.Controls.Add(this.label15);
             this.pRevenueToday.Controls.Add(this.label7);
             this.pRevenueToday.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.pRevenueToday.Location = new System.Drawing.Point(587, 433);
+            this.pRevenueToday.Location = new System.Drawing.Point(587, 451);
             this.pRevenueToday.Name = "pRevenueToday";
             this.pRevenueToday.Size = new System.Drawing.Size(344, 179);
             this.pRevenueToday.TabIndex = 4;
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
+            this.pictureBox5.Location = new System.Drawing.Point(197, 70);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(122, 77);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox5.TabIndex = 14;
+            this.pictureBox5.TabStop = false;
             // 
             // label15
             // 
@@ -280,10 +325,20 @@
             this.pPendingUser.Controls.Add(this.label14);
             this.pPendingUser.Controls.Add(this.label8);
             this.pPendingUser.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.pPendingUser.Location = new System.Drawing.Point(1023, 433);
+            this.pPendingUser.Location = new System.Drawing.Point(1023, 451);
             this.pPendingUser.Name = "pPendingUser";
             this.pPendingUser.Size = new System.Drawing.Size(344, 179);
             this.pPendingUser.TabIndex = 5;
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
+            this.pictureBox6.Location = new System.Drawing.Point(199, 70);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(122, 77);
+            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox6.TabIndex = 15;
+            this.pictureBox6.TabStop = false;
             // 
             // label14
             // 
@@ -307,117 +362,10 @@
             this.label8.TabIndex = 11;
             this.label8.Text = "Pending User";
             // 
-            // pQuickAction
-            // 
-            this.pQuickAction.BackColor = System.Drawing.Color.Transparent;
-            this.pQuickAction.BorderRadius = 10;
-            this.pQuickAction.Controls.Add(this.bQuickAction);
-            this.pQuickAction.Controls.Add(this.label10);
-            this.pQuickAction.Controls.Add(this.label9);
-            this.pQuickAction.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(178)))), ((int)(((byte)(43)))));
-            this.pQuickAction.Location = new System.Drawing.Point(164, 698);
-            this.pQuickAction.Name = "pQuickAction";
-            this.pQuickAction.Size = new System.Drawing.Size(344, 179);
-            this.pQuickAction.TabIndex = 4;
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Century Gothic", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.ForeColor = System.Drawing.Color.White;
-            this.label10.Location = new System.Drawing.Point(34, 77);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(178, 23);
-            this.label10.TabIndex = 6;
-            this.label10.Text = "Manage product";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(0)))), ((int)(((byte)(105)))));
-            this.label9.Location = new System.Drawing.Point(33, 32);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(163, 28);
-            this.label9.TabIndex = 10;
-            this.label9.Text = "Quick Action";
-            // 
-            // bQuickAction
-            // 
-            this.bQuickAction.Image = ((System.Drawing.Image)(resources.GetObject("bQuickAction.Image")));
-            this.bQuickAction.Location = new System.Drawing.Point(218, 77);
-            this.bQuickAction.Name = "bQuickAction";
-            this.bQuickAction.Size = new System.Drawing.Size(122, 77);
-            this.bQuickAction.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.bQuickAction.TabIndex = 14;
-            this.bQuickAction.TabStop = false;
-            // 
-            // pictureBox6
-            // 
-            this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
-            this.pictureBox6.Location = new System.Drawing.Point(199, 70);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(122, 77);
-            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox6.TabIndex = 15;
-            this.pictureBox6.TabStop = false;
-            // 
-            // pictureBox5
-            // 
-            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(197, 70);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(122, 77);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox5.TabIndex = 14;
-            this.pictureBox5.TabStop = false;
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(190, 70);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(122, 77);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox4.TabIndex = 10;
-            this.pictureBox4.TabStop = false;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(199, 66);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(122, 77);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox3.TabIndex = 11;
-            this.pictureBox3.TabStop = false;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(197, 66);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(122, 77);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox2.TabIndex = 10;
-            this.pictureBox2.TabStop = false;
-            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(190, 66);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(122, 77);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 9;
-            this.pictureBox1.TabStop = false;
-            // 
             // DashboardAdmin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.pQuickAction);
             this.Controls.Add(this.pPendingUser);
             this.Controls.Add(this.pRevenueToday);
             this.Controls.Add(this.pRevenue);
@@ -427,28 +375,25 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "DashboardAdmin";
-            this.Size = new System.Drawing.Size(1698, 921);
+            this.Size = new System.Drawing.Size(1644, 892);
             this.pTotalUser.ResumeLayout(false);
             this.pTotalUser.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.pTotalProduct.ResumeLayout(false);
             this.pTotalProduct.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.pTotaltransactio.ResumeLayout(false);
             this.pTotaltransactio.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.pRevenue.ResumeLayout(false);
             this.pRevenue.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.pRevenueToday.ResumeLayout(false);
             this.pRevenueToday.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             this.pPendingUser.ResumeLayout(false);
             this.pPendingUser.PerformLayout();
-            this.pQuickAction.ResumeLayout(false);
-            this.pQuickAction.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.bQuickAction)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -467,7 +412,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private Guna.UI2.WinForms.Guna2Panel pQuickAction;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label14;
@@ -475,8 +419,6 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label9;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label15;
@@ -485,6 +427,5 @@
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.PictureBox pictureBox6;
-        private System.Windows.Forms.PictureBox bQuickAction;
     }
 }

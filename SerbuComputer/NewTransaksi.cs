@@ -20,7 +20,7 @@ namespace SerbuComputer
         private void bAddTransaction_Click(object sender, EventArgs e)
         {
             Form1 form = (Form1)this.FindForm();
-            form.transactionOfflineAdmin1.BringToFront();
+            form.ShowPage(new TransactionOfflineAdmin());
         }
 
         private void bProfileTransaksi_Click(object sender, EventArgs e)
@@ -99,6 +99,16 @@ namespace SerbuComputer
             }
 
             popup.ShowDialog();
+        }
+
+        private void guna2Panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void NewTransaksi_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

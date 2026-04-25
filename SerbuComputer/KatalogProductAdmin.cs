@@ -46,5 +46,10 @@ namespace SerbuComputer
             Form1 form = (Form1)this.FindForm();
             form.managementProductAdmin1.BringToFront();
         }
+
+        private void KatalogProductAdmin_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

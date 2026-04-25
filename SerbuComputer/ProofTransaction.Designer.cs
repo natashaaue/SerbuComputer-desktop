@@ -37,9 +37,10 @@
             // 
             this.PictureProofTransaction.Image = ((System.Drawing.Image)(resources.GetObject("PictureProofTransaction.Image")));
             this.PictureProofTransaction.ImageRotate = 0F;
-            this.PictureProofTransaction.Location = new System.Drawing.Point(3, 3);
+            this.PictureProofTransaction.Location = new System.Drawing.Point(3, 2);
             this.PictureProofTransaction.Name = "PictureProofTransaction";
-            this.PictureProofTransaction.Size = new System.Drawing.Size(731, 1100);
+            this.PictureProofTransaction.Size = new System.Drawing.Size(413, 718);
+            this.PictureProofTransaction.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.PictureProofTransaction.TabIndex = 0;
             this.PictureProofTransaction.TabStop = false;
             // 
@@ -47,7 +48,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(736, 1106);
+            this.ClientSize = new System.Drawing.Size(414, 726);
             this.Controls.Add(this.PictureProofTransaction);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "ProofTransaction";
